@@ -1,6 +1,6 @@
 # Task Tracker App
 
-This project includes the react ui as well as JSON-server for mock backend.
+This project includes the react UI as well as JSON-server for mock backend.
 
 ### Install dependencies
 
